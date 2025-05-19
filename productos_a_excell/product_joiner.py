@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Cargar los datos
-dataframe_productos = pd.read_excel("Productos.xlsx")
-dataframe_codigos = pd.read_excel("Codigos.xlsx")
+dataframe_productos = pd.read_excel('/run/media/andrei/Disco ext/Trabajo/Sincatel/INSTALACIONES.xlsx')
+dataframe_codigos = pd.read_excel('/run/media/andrei/Disco ext/Trabajo/Sincatel/CLIENTES.xlsx')
 
 # Extraer las columnas y normalizarlas
 # Convertimos a string y eliminamos espacios en blanco al inicio y final
