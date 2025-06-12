@@ -2,9 +2,9 @@
 
 # vars
 BACKUP_DIR=~/odoo_backups
-ODOO_URL=http://nibafa.es
-ODOO_DATABASE=sandbox
-ADMIN_PASSWORD=hpyc-evt9-5pwt
+ODOO_URL=https://sincatel.nibafadigital.com
+ODOO_DATABASE=Sincatel
+ADMIN_PASSWORD=Argentina1!
 KEPT_BACKUPS=7
 
 # create a backup directory
